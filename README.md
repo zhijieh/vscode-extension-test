@@ -1,3 +1,3 @@
-# vscode-theia-test
+# vscode-extension-test
 
-VSCode插件用于theia的测试。
+VSCode插件用于测试。
