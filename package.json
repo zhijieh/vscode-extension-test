@@ -1,6 +1,6 @@
 {
-    "name": "vscode-theia-test",
-    "displayName": "vscode-theia-test",
+    "name": "vscode-extension-test",
+    "displayName": "vscode-extension-test",
     "description": "ui.json插件",
     "version": "0.0.1",
     "publisher": "huzhijie1987",
